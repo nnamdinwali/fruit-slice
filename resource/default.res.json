@@ -1,0 +1,218 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,share1_jpg,share2_jpg,share3_jpg,system_json,loading12_png,loading22_png,share12_jpg,share22_jpg,share32_jpg,description2_json,numimage_fnt,numimage_png,soundpress_mp3,soundwarn_mp3,soundrandom_mp3,soundunlock_mp3,texiaocolor1_json,texiaocolor2_json,slotstart_mp3,slotstop_mp3,slotwin1_mp3,slotwin2_mp3,water_json,knife_json,soundfail_mp3,soundknife1_mp3,soundknife2_mp3,soundknife3_mp3,soundpen1_mp3,soundpen2_mp3,soundpen3_mp3,soundwater1_mp3,soundwater2_mp3,gameall1_json,gameall2_json,gameall3_json,soundstar_mp3",
+			"name": "preload"
+		},
+		{
+			"keys": "loading2_png,loading1_png",
+			"name": "loading"
+		}
+	],
+	"resources": [
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/system/share1.jpg",
+			"type": "image",
+			"name": "share1_jpg"
+		},
+		{
+			"url": "assets/system/share2.jpg",
+			"type": "image",
+			"name": "share2_jpg"
+		},
+		{
+			"url": "assets/system/share3.jpg",
+			"type": "image",
+			"name": "share3_jpg"
+		},
+		{
+			"url": "assets/system/system.json",
+			"type": "sheet",
+			"name": "system_json",
+			"subkeys": "bg_tips_png,default-portrait_png,head_cycle_mask_png,head_square_mask_png,loading_indicator_png,rank_levelbg_png,share_challenge_head1_png,share_challenge_head2_png,share_challenge_head3_png,share_crown_png,sharehead_png"
+		},
+		{
+			"url": "assets/system/loading2.png",
+			"type": "image",
+			"name": "loading2_png"
+		},
+		{
+			"url": "assets/system/loading1.png",
+			"type": "image",
+			"name": "loading1_png"
+		},
+		{
+			"url": "assets/system/loading1.png",
+			"type": "image",
+			"name": "loading12_png"
+		},
+		{
+			"url": "assets/system/loading2.png",
+			"type": "image",
+			"name": "loading22_png"
+		},
+		{
+			"url": "assets/system/share1.jpg",
+			"type": "image",
+			"name": "share12_jpg"
+		},
+		{
+			"url": "assets/system/share2.jpg",
+			"type": "image",
+			"name": "share22_jpg"
+		},
+		{
+			"url": "assets/system/share3.jpg",
+			"type": "image",
+			"name": "share32_jpg"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description2_json"
+		},
+		{
+			"url": "assets/image/numimage.fnt",
+			"type": "font",
+			"name": "numimage_fnt"
+		},
+		{
+			"url": "assets/image/numimage.png",
+			"type": "image",
+			"name": "numimage_png"
+		},
+		{
+			"url": "assets/sound/soundpress.mp3",
+			"type": "sound",
+			"name": "soundpress_mp3"
+		},
+		{
+			"url": "assets/sound/soundwarn.mp3",
+			"type": "sound",
+			"name": "soundwarn_mp3"
+		},
+		{
+			"url": "assets/sound/soundrandom.mp3",
+			"type": "sound",
+			"name": "soundrandom_mp3"
+		},
+		{
+			"url": "assets/sound/soundunlock.mp3",
+			"type": "sound",
+			"name": "soundunlock_mp3"
+		},
+		{
+			"name": "texiaocolor1_json",
+			"type": "json",
+			"url": "assets/particle/texiaocolor1.json"
+		},
+		{
+			"name": "texiaocolor2_json",
+			"type": "json",
+			"url": "assets/particle/texiaocolor2.json"
+		},
+		{
+			"name": "slotstart_mp3",
+			"type": "sound",
+			"url": "assets/sound/slotstart.mp3"
+		},
+		{
+			"name": "slotstop_mp3",
+			"type": "sound",
+			"url": "assets/sound/slotstop.mp3"
+		},
+		{
+			"name": "slotwin1_mp3",
+			"type": "sound",
+			"url": "assets/sound/slotwin1.mp3"
+		},
+		{
+			"name": "slotwin2_mp3",
+			"type": "sound",
+			"url": "assets/sound/slotwin2.mp3"
+		},
+		{
+			"name": "water_json",
+			"type": "json",
+			"url": "assets/particle/water.json"
+		},
+		{
+			"name": "knife_json",
+			"type": "json",
+			"url": "assets/particle/knife.json"
+		},
+		{
+			"name": "soundfail_mp3",
+			"type": "sound",
+			"url": "assets/sound/soundfail.mp3"
+		},
+		{
+			"name": "soundknife1_mp3",
+			"type": "sound",
+			"url": "assets/sound/soundknife1.mp3"
+		},
+		{
+			"name": "soundknife2_mp3",
+			"type": "sound",
+			"url": "assets/sound/soundknife2.mp3"
+		},
+		{
+			"name": "soundknife3_mp3",
+			"type": "sound",
+			"url": "assets/sound/soundknife3.mp3"
+		},
+		{
+			"name": "soundpen1_mp3",
+			"type": "sound",
+			"url": "assets/sound/soundpen1.mp3"
+		},
+		{
+			"name": "soundpen2_mp3",
+			"type": "sound",
+			"url": "assets/sound/soundpen2.mp3"
+		},
+		{
+			"name": "soundpen3_mp3",
+			"type": "sound",
+			"url": "assets/sound/soundpen3.mp3"
+		},
+		{
+			"name": "soundwater1_mp3",
+			"type": "sound",
+			"url": "assets/sound/soundwater1.mp3"
+		},
+		{
+			"name": "soundwater2_mp3",
+			"type": "sound",
+			"url": "assets/sound/soundwater2.mp3"
+		},
+		{
+			"name": "gameall1_json",
+			"type": "sheet",
+			"url": "assets/image/gameall1.json",
+			"subkeys": "titletips_png,gameretry_png,titlebtn1_png,titlebtn2_png,titlebtn3_png,tips2_png,tips1_png,gameview_png,titleview1_png,title_png,shoplight_png,shopselect_png,shoptitle1_png,shoptitle2_png,herobg_png,shoppage2_png,shoppage1_png,shopbg_png,shopbtn2_png,shopbtn3_png,shopbtn1_png,shopbtn4_png,herounlock_png,shopbtn5_png,interbg_png,texiaowater7_png,texiaowater6_png,texiaowater4_png,texiaowater5_png,texiaowater1_png,texiaowater2_png,texiaowater3_png,texiaocolor2_png,texiaowater12_png,texiaowater13_png,texiaocolor3_png,texiaocolor1_png,texiaowater11_png,texiaowater10_png,texiaowater14_png,texiaowater15_png,texiaowater8_png,texiaowater9_png,overtitle_png,overbtn2_png,overbtn3_png,overbtn1_png,overstar1_png,overstar2_png,line1_png,line2_png,tong1_png,tong3_png,mapbg_png,blade1_png,blade3_png,blade2_png,blade4_png,knife_png,tong2_png"
+		},
+		{
+			"name": "gameall2_json",
+			"type": "sheet",
+			"url": "assets/image/gameall2.json",
+			"subkeys": "moregame1_png,moregame2_png,moregame3_png,rankme_png,rankshare_png,rankbtn2_png,rankbtn3_png,rankview1_png,rankmark_png,rankstar_png,rankview3_png,rankbtn1_png,rankview2_png,rankbg_png,foodtexiao13_png,foodtexiao8_png,foodtexiao9_png,foodtexiao12_png,foodtexiao10_png,foodtexiao11_png,foodtexiao15_png,foodtexiao14_png,foodtexiao1_png,foodtexiao2_png,foodtexiao3_png,foodtexiao7_png,foodtexiao6_png,foodtexiao4_png,foodtexiao5_png,slotitem6_png,slottitle_png,slotitem5_png,slotitem4_png,slotitem0_png,slotadd1_png,slotitem1_png,slotitem3_png,slotadd2_png,slotadd3_png,slotitem2_png,slotview_png,slotbtn1_png,slotbtn2_png,slotbtn3_png,slotcover_png,slotbg_png,slotcoin1_png,slotcoin2_png,slotcoin3_png,slotcoin4_png"
+		},
+		{
+			"name": "gameall3_json",
+			"type": "sheet",
+			"url": "assets/image/gameall3.json",
+			"subkeys": "map17-1_png,map18_png,map15-1_png,map19_png,map21_png,map9_png,map8_png,map20_png,map11-1_png,map9-1_png,map13-1_png,map22_png,map23_png,map14-1_png,map16-1_png,map12-1_png,map8-1_png,map10-1_png,map6-1_png,map2-1_png,map18-1_png,map12_png,map6_png,map7_png,map13_png,map7-1_png,map11_png,map5-1_png,map5_png,map4_png,map10_png,map14_png,map1_png,map1-1_png,map15_png,map17_png,map3_png,map2_png,map16_png,hero15_png,hero14_png,hero10_png,hero11_png,hero13_png,hero9_png,hero8_png,hero12_png,hero5_png,hero4_png,hero6_png,hero7_png,hero3_png,hero2_png,hero1_png"
+		},
+		{
+			"name": "soundstar_mp3",
+			"type": "sound",
+			"url": "assets/sound/soundstar.mp3"
+		}
+	]
+}
